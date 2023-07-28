@@ -30,3 +30,14 @@ The demo link := [Django News Demo](http://rajeshgowd.pythonanywhere.com/)
 2. password:=<code>vikram@108</code>
 
 ## News Section
+![Screenshot 2023-07-28 192714](https://github.com/rajesh604/django_blog/assets/77529419/f6678cf7-a8c6-413e-9c4c-b3c840e64fc5)
+
+## News Section When Click On A News
+![Screenshot 2023-07-28 192855](https://github.com/rajesh604/django_blog/assets/77529419/4b7a7f7f-b569-499c-b240-909b7ba3e5b9)
+
+## Working Of News Section
+![newsplayback](https://github.com/rajesh604/django_blog/assets/77529419/da0424b0-bee2-4ce4-be31-52854a653259)
+
+## KeyFeatures Of The Blog
+1.Only the superuser has the permission to give users permissions whether they can add blogs or view them
+2.The SuperUser Can delete any blogs and can edit any blogs
