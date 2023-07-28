@@ -39,5 +39,6 @@ The demo link := [Django News Demo](http://rajeshgowd.pythonanywhere.com/)
 ![newsplayback](https://github.com/rajesh604/django_blog/assets/77529419/da0424b0-bee2-4ce4-be31-52854a653259)
 
 ## KeyFeatures Of The Blog
-1.Only the superuser has the permission to give users permissions whether they can add blogs or view them
-2.The SuperUser Can delete any blogs and can edit any blogs
+1. Only the superuser has the permission to give users permissions whether they can add blogs or view them
+<br>
+2. The SuperUser Can delete any blogs and can edit any blogs
