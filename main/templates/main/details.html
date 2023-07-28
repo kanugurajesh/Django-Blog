@@ -1,0 +1,11 @@
+{% extends 'main/base.html' %} 
+{% block title %}News Details{% endblock %}
+{% block content %}
+<div class="content container">
+    <span>Title: {{ title }}</span>
+    <br>
+    <img src="{{ image_src }}" alt="">
+    <span class="subtitle">Description: {{ desc }}</span>
+    <span>{{ url }}</span>
+</div>
+{% endblock %}

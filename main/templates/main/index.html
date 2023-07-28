@@ -1,0 +1,15 @@
+{% extends 'main/base.html' %} {% block title %}News Blog{% endblock %}
+{% block content %}
+<div class="main_news container">
+    {% for title, desc, image, url in mylist %}
+    <div class="box" onclick='navigateToDetailsPage("{{ title }}", "{{ desc }}", "{{ image }}","{{ url }}")'>
+        <div class="content">
+            <span>{{ title }}</span>
+            <br>
+            <img src="{{ image }}" alt="">
+            <span class="subtitle">{{ desc }}</span>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
